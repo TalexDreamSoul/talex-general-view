@@ -1,0 +1,38 @@
+{
+  "cSpell.words": [
+    "Antd",
+    "antfu",
+    "demi",
+    "iconify",
+    "intlify",
+    "nprogress",
+    "pinia",
+    "pnpm",
+    "preinstall",
+    "shiki",
+    "sizecheck",
+    "talex",
+    "TalexDreamSoul",
+    "Talexs",
+    "taze",
+    "tds",
+    "typecheck",
+    "unhead",
+    "unocss",
+    "unplugin",
+    "Vite",
+    "vitejs",
+    "Vitesse",
+    "vitest",
+    "vueuse",
+    "webfont"
+  ],
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "editor.formatOnSave": false
+}

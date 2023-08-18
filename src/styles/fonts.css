@@ -1,0 +1,18 @@
+// 从 public 导入 MiSans-Normal.ttf 并为全局默认应用 (css)
+@font-face {
+  font-family: 'MiSans';
+  src: url('/MiSans-Normal.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Alimm';
+  src: url('/Alimm.ttf') format('truetype');
+}
+
+.misans {
+  font-family: 'MiSans';
+}
+
+.alimm {
+  font-family: 'Alimm';
+}
